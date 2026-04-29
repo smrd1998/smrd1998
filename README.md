@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I am a passionate Front-End Developer with over 6 
 ---
 *Always ready for new challenges and building impactful products.* 🚀
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:::</h3>
 <p align="left" style="display: flex">
 <a href="https://github.com/smrd1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="smrd1998" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohammad-reza-dehghani77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-reza-dehghani77" height="30" width="40" /></a>
