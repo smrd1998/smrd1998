@@ -79,7 +79,7 @@ I also have strong hands-on experience with **React Native**, **Ionic**, and eve
 
 ### 📫 Connect with Me
 
-- Email: **smrd1377@gmail.com**  
+- Email: *smrd1377@gmail.com*
 - LinkedIn: *https://www.linkedin.com/in/mohammad-reza-dehghani77*  
 - Personal website: *http://oryzo.space*  
 
