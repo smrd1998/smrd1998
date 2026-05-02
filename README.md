@@ -80,8 +80,8 @@ I also have strong hands-on experience with **React Native**, **Ionic**, and eve
 ### 📫 Connect with Me
 
 - Email: **smrd1377@gmail.com**  
-- LinkedIn: *[will add soon]*  
-- Personal website / online resume: *[optional – you can host your HTML resume on GitHub Pages]*  
+- LinkedIn: *https://www.linkedin.com/in/mohammad-reza-dehghani77*  
+- Personal website: *http://oryzo.space*  
 
 ---
 
